@@ -1,3 +1,3 @@
 # Python
-Different python problems and solution for Python
+Different python problems and solutions.
 
